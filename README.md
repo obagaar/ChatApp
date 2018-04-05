@@ -1,6 +1,9 @@
 # ChatApp
 A chat application I created for my class
 
+## Getting Started
+What you need to run and use this chat app.
+
 ### Prerequisites
 * A working internet connection
 * The Setup.msi file downloaded and installed
